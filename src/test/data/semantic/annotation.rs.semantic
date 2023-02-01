@@ -1,4 +1,0 @@
-|>ANNOTATION_TYPE:#[test]<|
-fn |>METHOD,STATIC:main<|() {
-    do_something();
-}

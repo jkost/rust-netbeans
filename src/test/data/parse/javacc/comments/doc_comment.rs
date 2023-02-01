@@ -1,4 +1,0 @@
-/// Entry point
-fn main() {
-
-}

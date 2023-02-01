@@ -1,6 +1,0 @@
-[package]
-author = "John"
-
-[[bin]]
-name = "run"
-path = "src/main.rs"

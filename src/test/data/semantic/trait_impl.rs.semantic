@@ -1,3 +1,0 @@
-impl |>CLASS:Printable<| for int {
-  fn |>METHOD:print<|(&self) { println(fmt!("%d", *self)) }
-}
